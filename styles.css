@@ -1,3 +1,16 @@
-/****************************
- ====== Votre super CSS =====
- ****************************/
+.head
+{
+  background-color: #1b6e76;
+}
+h1
+{
+  color: white;
+}
+nav
+{
+  color: white;
+}
+h3
+{
+  color: white;
+}
