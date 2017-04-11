@@ -1,6 +1,7 @@
 .band
 {
   background-color: #232323;
+  height: 100px;
 }
 .head
 {
@@ -18,4 +19,8 @@ nav
 h3
 {
   color: white;
+}
+body
+{
+  margin: 0px;
 }
