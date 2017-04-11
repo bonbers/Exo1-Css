@@ -1,6 +1,14 @@
 .band
 {
   background-color: #232323;
+  height: 15px;
+}
+.logo
+{
+  position: absolute;
+  top: 55px;
+  left: 20px;
+  width: 100px;
   height: 100px;
 }
 .head
@@ -17,17 +25,45 @@ nav
   text-align: right;
   color: white;
 }
-h3
+h2
 {
   text-align: center;
   color: white;
+  padding-bottom: 20px;
+  margin-bottom: 0;
+}
+section
+{
+text-align: center;
+background-color: white;
+padding-top: 30px;
 }
 body
 {
-  margin: 0px;
+  background-color: #232323;
+  margin-left: 0;
+  margin-right: 0;
 }
 .foot
 {
+  text-align: center;
   background-color: #232323;
-  height: 50px;
+  height: 60px;
+  padding-top: 45px;
+}
+.email
+{
+width: 600px;
+height: 40px;
+border-radius: 2px 2px 2px 2px;
+}
+.button
+{
+  font-size: 10px;
+  background-color: #1b6e76;
+  color: white;
+  border-radius: 5px 5px 5px 5px;
+  height: 28px;
+  width: 50px;
+  border: none;
 }
