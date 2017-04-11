@@ -1,23 +1,25 @@
 .band
 {
   background-color: #232323;
-  height: 15px;
+  height: 45px;
 }
 .logo
 {
+  margin-top: 35px;
   position: absolute;
   top: 55px;
   left: 20px;
-  width: 100px;
-  height: 100px;
+  width: 150px;
+  height: 150px;
 }
 .head
 {
+  padding-top: 1px;
   background-color: #1b6e76;
 }
 h1
 {
-  font-size: 40px;
+  font-size: 60px;
   font-family: 'Roboto', sans-serif;
   text-align: center;
   color: white;
