@@ -17,17 +17,21 @@
 }
 h1
 {
+  font-size: 40px;
+  font-family: 'Roboto', sans-serif;
   text-align: center;
   color: white;
 }
 nav
 {
+  font-family: 'Roboto', sans-serif;
   text-align: right;
   margin-right: 90px;
   color: white;
 }
 h2
 {
+  font-family: 'Roboto', sans-serif;
   text-align: center;
   color: white;
   padding-bottom: 20px;
@@ -38,6 +42,7 @@ section
 text-align: center;
 background-color: white;
 padding-top: 30px;
+padding-bottom: 30px;
 }
 a
 {
@@ -49,14 +54,12 @@ body
   background-color: #232323;
   margin-left: 0;
   margin-right: 0;
-  padding-bottom: 20px;
 }
 .foot
 {
   text-align: center;
   background-color: #232323;
-  padding-top: 45px;
-  padding-bottom: 20px;
+  padding-top: 50px;
 }
 .email
 {
