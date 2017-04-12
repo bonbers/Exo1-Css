@@ -61,9 +61,20 @@ background-color: white;
 padding-top: 30px;
 padding-bottom: 10px;
 }
-article
-{
 
+ul
+{
+list-style: none;
+}
+.li1
+{
+  text-align: center;
+  display:inline;
+}
+.li2
+{
+  text-align: center;
+  display:inline;
 }
 a
 {
