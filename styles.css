@@ -106,10 +106,9 @@ form
 }
 .email
 {
-width: 600px;
-height: 22px;
+width: 42%;
+height: 22%;
 border-radius: 2px;
-padding-bottom: 4px;
 }
 .button
 {
@@ -117,7 +116,8 @@ padding-bottom: 4px;
   background-color: #1b6e76;
   color: white;
   border-radius: 5px;
-  height: 30px;
+  height: 25px;
   width: 50px;
   border: none;
+  padding-top: 4px;
 }
