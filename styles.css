@@ -20,20 +20,24 @@
 h1
 {
   font-size: 60px;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Dosis', sans-serif;
   text-align: center;
   color: white;
 }
+h4
+{
+  font-family: 'Dosis' , sans-serif;
+}
 nav
 {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Dosis', sans-serif;
   text-align: right;
   margin-right: 90px;
   color: white;
 }
 h2
 {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Dosis', sans-serif;
   text-align: center;
   color: #b7d1d4;
   padding-bottom: 20px;
@@ -72,12 +76,15 @@ body
   margin-left: 0;
   margin-right: 0;
 }
-.foot
+footer
 {
   text-align: center;
   background-color: #232323;
   padding-top: 35px;
-  padding-bottom: 15px;
+  /*padding-bottom: 15px;*/
+}
+form
+{
 }
 .email
 {
